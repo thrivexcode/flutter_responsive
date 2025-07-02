@@ -29,7 +29,7 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 
 Preview how the layout adjusts across platforms:
 
-![flutter_pos_demo](https://res.cloudinary.com/dhhm853e7/image/upload/v1751432065/flutter_Responsive_sample.gif)
+![flutter_pos_demo](https://res.cloudinary.com/dhhm853e7/image/upload/v1751435749/flutter_responsive_ivcqkn.gif)
 
 ---
 
