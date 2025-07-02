@@ -12,9 +12,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751431970/flutter_responsive_banner_csooud.gif" width="100%">
-</p>
+## 📸 Preview
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751431970/flutter_responsive_banner_csooud.gif" width="100%" alt="Flutter POS Banner Preview" />
+</div>
+
+---
 
 ## 🎯 Overview
 
@@ -27,9 +31,9 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 
 ## 🎥 Live Demo
 
-Preview how the layout adjusts across platforms:
-
-![flutter_pos_demo](https://res.cloudinary.com/dhhm853e7/image/upload/v1751435749/flutter_responsive_ivcqkn.gif)
+<div align="center">
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751435749/flutter_responsive_ivcqkn.gif" width="100%" alt="Flutter POS Demo Preview" />
+</div>
 
 ---
 
@@ -52,8 +56,8 @@ To run this project on your local machine:
 ```bash
 git clone https://github.com/thrivexcode/flutter_responsive.git
 
-//install Dependencies
+# Install Dependencies
 flutter pub get
 
-// run the App
+# Run the App
 flutter run
