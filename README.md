@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://yourcdnlink.com/pos_banner.gif" width="100%">
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751431970/flutter_responsive_banner_csooud.gif" width="100%">
 </p>
 
 ## 🎯 Overview
@@ -29,7 +29,7 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 
 Preview how the layout adjusts across platforms:
 
-![flutter_pos_demo](https://yourcdnlink.com/pos_demo.gif)
+![flutter_pos_demo](https://res.cloudinary.com/dhhm853e7/image/upload/v1751432065/flutter_Responsive_sample_c8onzb.gif)
 
 ---
 
