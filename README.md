@@ -2,11 +2,12 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Active-blueviolet.svg)](https://github.com/yourusername/flutter_pos_ui)
+
+[![Status](https://img.shields.io/badge/Status-Active-blueviolet.svg)](https://github.com/yourusername/fancy_scroll_app)
 [![Flutter](https://img.shields.io/badge/Flutter-App-blue.svg?&logo=Flutter&logoColor=white)](https://flutter.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thrivexcode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thrivexcode/)
 
 </div>
 
@@ -31,10 +32,7 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 
 **Here’s a preview of how the Responsive POS System UI works:**
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751435749/flutter_responsive_ivcqkn.gif" width="100%" alt="Flutter POS Demo Preview" />
-</div>
-
+![Flutter POS Demo Preview](https://res.cloudinary.com/dhhm853e7/image/upload/v1751435749/flutter_responsive_ivcqkn.gif)
 ---
 
 ## ✨ Features
