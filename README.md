@@ -12,8 +12,6 @@
 
 ---
 
-## 📸 Preview
-
 <div align="center">
   <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751431970/flutter_responsive_banner_csooud.gif" width="100%" alt="Flutter POS Banner Preview" />
 </div>
