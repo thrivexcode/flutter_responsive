@@ -32,7 +32,7 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 **Here’s a preview of how the Responsive POS System UI works:**
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751532178/flutter_responsive_fhkz3p.gif" width="100%" alt="Flutter POS Demo Preview" />
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751532904/flutter_responsive_sample_yrho1s.gif" width="100%" alt="Flutter POS Demo Preview" />
 </p>
 
 ---
@@ -55,6 +55,7 @@ To run this project on your local machine:
 
 ```bash
 git clone https://github.com/thrivexcode/flutter_responsive.git
+cd flutter_responsive
 
 # Install Dependencies
 flutter pub get
