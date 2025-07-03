@@ -32,7 +32,7 @@ Built with clean architecture and maintainable code, this mockup is a great refe
 **Here’s a preview of how the Responsive POS System UI works:**
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751532904/flutter_responsive_sample_yrho1s.gif" width="100%" alt="Flutter POS Demo Preview" />
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1751533393/flutter_responsive_sample_xooibe.gif" width="100%" alt="Flutter POS Demo Preview" />
 </p>
 
 ---
